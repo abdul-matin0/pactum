@@ -1,0 +1,88 @@
+/*
+template created by Adebayo Abdul-matin
+    madeayo04@gmail.com
+    copyright@2019
+*/
+* {
+
+    font-family: 'Tekton Pro';
+}
+
+/* Make the image fully responsive */
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.link-text {
+    transition: 1s all ease-out;
+
+}
+
+.link-text:hover {
+    border-bottom: 1px solid white;
+    transition: 1.5s all ease-in;
+    width: 30%;
+}
+
+.footer-link {
+    transition: 1s all ease;
+    color: white;
+}
+
+.footer-link:hover {
+    color: #ff0077;
+    transition: 1.5s all ease;
+}
+
+
+p a:hover {
+    text-decoration: none;
+}
+
+.price {
+    color: #ff0077;
+    border-bottom: 1px solid #ff0077;
+    width: 50px;
+}
+
+h3 {
+    font-family: 'Brush Script Std';
+    color: #fff;
+}
+
+h3 a {
+    font-family: 'Brush Script Std';
+    font-size: 25px;
+    color: #fff;
+}
+
+h3 a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+h4 {
+    font-family: 'Brush Script Std';
+    color: #0f0e11;
+}
+
+.nav-list {
+    color: #fff;
+    font-family: 'Brush Script Std';
+    transition: 0.5s all ease;
+    font-size: 20px;
+}
+
+.nav-list:hover {
+    color: #ff0077;
+    transition: 0.5s all ease;
+}
+
+p {
+    color: #fff;
+}
+
+.text-contact a {
+    color: #fff;
+}
